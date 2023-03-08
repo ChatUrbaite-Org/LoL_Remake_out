@@ -1,5 +1,6 @@
 LOL_Remake/Binaries/Win64/D3D12/D3D12Core.dll	2023-03-07T09:09:46.381Z
-LOL_Remake/Binaries/Win64/LOL_Remake-Win64-Shipping.exe	2023-03-08T14:44:49.811Z
+LOL_Remake/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2023-03-07T09:09:46.538Z
+LOL_Remake/Binaries/Win64/LOL_Remake.exe	2023-03-08T15:50:53.288Z
 LOL_Remake/Binaries/Win64/OpenImageDenoise.dll	2023-03-07T09:25:42.463Z
 LOL_Remake/Binaries/Win64/boost_atomic-vc142-mt-x64-1_70.dll	2023-03-07T09:24:52.909Z
 LOL_Remake/Binaries/Win64/boost_chrono-vc142-mt-x64-1_70.dll	2023-03-07T09:24:52.922Z
@@ -18,5 +19,6 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-03-07T09:09:40.412Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-03-07T09:09:46.328Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-03-07T09:09:46.329Z
+Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2023-03-07T09:09:46.608Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-03-07T09:09:46.612Z
-LOL_Remake.exe	2023-03-08T14:50:38.445Z
+LOL_Remake.exe	2023-03-08T15:51:12.668Z
