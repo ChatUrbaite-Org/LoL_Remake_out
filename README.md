@@ -1,3 +1,3 @@
 # LoL_Remake_out
 Compiled Game
-Version ALPHA BUILD: 0.0.1
+Version ALPHA BUILD: 0.0.2
