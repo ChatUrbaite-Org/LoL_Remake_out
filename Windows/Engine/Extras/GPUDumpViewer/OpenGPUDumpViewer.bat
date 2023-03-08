@@ -6,7 +6,7 @@ set CHROME_USER_DATA=%CWD%/.tmp_chrome_data/
 echo "Opening chrome..."
 
 
-set CHROME="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+set CHROME="C:\Program Files\Google\Chrome Beta\Application\chrome.exe"
 if exist "C:\Program Files\Google\Chrome\Application\chrome.exe" (
 	set CHROME="C:\Program Files\Google\Chrome\Application\chrome.exe"
 )
